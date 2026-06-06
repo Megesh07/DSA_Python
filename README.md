@@ -10,8 +10,8 @@ Each directory contains a specific category of problems. Each problem is solved 
 - Clean, optimal Python code
 
 ## Progress Tracker
-- [ ] Arrays & Hashing (0/9)
-- [ ] Two Pointers (0/5)
+- [x] Arrays & Hashing (9/9)
+- [ ] Two Pointers (2/5)
 - [ ] Sliding Window (0/6)
 - [ ] Stack (0/7)
 - [ ] Binary Search (0/7)
@@ -29,4 +29,4 @@ Each directory contains a specific category of problems. Each problem is solved 
 - [ ] Math & Geometry (0/8)
 - [ ] Bit Manipulation (0/7)
 
-**Total Progress: 0 / 150**
+**Total Progress: 11 / 150**
