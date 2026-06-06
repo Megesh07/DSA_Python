@@ -1,10 +1,27 @@
-# NeetCode 150 Python Solutions
+<div align="center">
+  <h1>🚀 NeetCode 150 Python Solutions</h1>
+  <p>
+    <strong>A comprehensive, production-ready, and interview-focused repository containing Python solutions to all 150 NeetCode problems.</strong>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Language-Python_3-blue.svg" alt="Language">
+    <img src="https://img.shields.io/badge/Progress-150%2F150-brightgreen.svg" alt="Progress">
+    <img src="https://img.shields.io/badge/Status-100%25_Complete-success.svg" alt="Status">
+  </p>
+</div>
 
-This repository contains my solutions to the [NeetCode 150](https://neetcode.io/practice) problems, written in Python. The goal of this repository is to demonstrate my Data Structures and Algorithms proficiency for software engineering interviews. All solutions are highly optimized, maintaining clean production-quality code.
+## 📖 Overview
 
-## 🚀 Progress
+Welcome! This repository serves as a personal knowledge base and portfolio demonstrating proficiency in Data Structures and Algorithms. The repository covers the [NeetCode 150](https://neetcode.io/practice) curriculum, widely regarded as the gold standard for software engineering interview preparation.
 
-**Status: 100% Complete (150/150)**
+Each solution in this repository is crafted with the following goals in mind:
+- **Optimal Complexity:** Prioritizing minimal Time (Big-O) and Space complexity.
+- **Production-Quality Code:** Utilizing clean coding standards, concise logic, and meaningful variable names.
+- **Pythonic Idioms:** Taking advantage of modern Python's built-in features (like `collections`, `heapq`, and list comprehensions).
+
+## 🗂️ Curriculum & Progress
+
+**Overall Completion: 150/150 (100%)**
 
 | Topic | Completed | Total |
 |-------|:---------:|:-----:|
@@ -27,8 +44,33 @@ This repository contains my solutions to the [NeetCode 150](https://neetcode.io/
 | Math & Geometry | 8 | 8 |
 | Bit Manipulation | 7 | 7 |
 
-## 📁 Repository Structure
+## 🏗️ Repository Structure
 
-The repository is structured topically. Each folder corresponds to a specific category and contains individual python files for each problem. All solutions are documented and include time/space complexity analysis where applicable.
+The codebase is logically organized into topical directories. Each directory acts as an independent module containing python files for specific problems.
 
-Please view `progress.md` for a chronological history of completions.
+```text
+📦 NeetCode-150-Python
+ ┣ 📂 Arrays
+ ┣ 📂 Backtracking
+ ┣ 📂 Binary_Search
+ ┣ 📂 Bit_Manipulation
+ ┣ 📂 Dynamic_Programming
+ ┣ 📂 Graphs
+ ┣ 📂 Advanced_Graphs
+ ┣ 📂 Greedy
+ ┣ 📂 Heap_Priority_Queue
+ ┣ 📂 Intervals
+ ┣ 📂 Linked_List
+ ┣ 📂 Math_Geometry
+ ┣ 📂 Sliding_Window
+ ┣ 📂 Stack
+ ┣ 📂 Trees
+ ┣ 📂 Tries
+ ┣ 📂 Two_Pointers
+ ┣ 📜 README.md
+ ┗ 📜 progress.md
+```
+
+## 📈 Detailed Activity Log
+
+For a chronological history of problem completions and daily milestones, please view the [progress.md](./progress.md) file.
