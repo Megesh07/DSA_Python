@@ -67,10 +67,6 @@ The codebase is logically organized into topical directories. Each directory act
  ┣ 📂 Trees
  ┣ 📂 Tries
  ┣ 📂 Two_Pointers
- ┣ 📜 README.md
- ┗ 📜 progress.md
+ ┗ 📜 README.md
 ```
 
-## 📈 Detailed Activity Log
-
-For a chronological history of problem completions and daily milestones, please view the [progress.md](./progress.md) file.
