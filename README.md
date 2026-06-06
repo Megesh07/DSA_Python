@@ -1,27 +1,24 @@
 <div align="center">
-  <h1>🚀 NeetCode 150 Python Solutions</h1>
+  <h1>NeetCode 150 - Python Solutions</h1>
   <p>
-    <strong>A comprehensive, production-ready, and interview-focused repository containing Python solutions to all 150 NeetCode problems.</strong>
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Language-Python_3-blue.svg" alt="Language">
-    <img src="https://img.shields.io/badge/Progress-150%2F150-brightgreen.svg" alt="Progress">
-    <img src="https://img.shields.io/badge/Status-100%25_Complete-success.svg" alt="Status">
+    <strong>My personal solutions to the NeetCode 150 problem set, written in Python 3.</strong>
   </p>
 </div>
 
-## 📖 Overview
+## Overview
 
-Welcome! This repository serves as a personal knowledge base and portfolio demonstrating proficiency in Data Structures and Algorithms. The repository covers the [NeetCode 150](https://neetcode.io/practice) curriculum, widely regarded as the gold standard for software engineering interview preparation.
+This repository contains my Python solutions to the [NeetCode 150](https://neetcode.io/practice). I put this together while studying for technical interviews, and I hope it can serve as a helpful reference for anyone else preparing for software engineering interviews. 
 
-Each solution in this repository is crafted with the following goals in mind:
-- **Optimal Complexity:** Prioritizing minimal Time (Big-O) and Space complexity.
-- **Production-Quality Code:** Utilizing clean coding standards, concise logic, and meaningful variable names.
-- **Pythonic Idioms:** Taking advantage of modern Python's built-in features (like `collections`, `heapq`, and list comprehensions).
+My main focus when writing these solutions was balancing optimal performance with readability. During an interview, communicating your thought process is just as important as getting the right answer, so I've tried to write code that is easy to explain and understand.
 
-## 🗂️ Curriculum & Progress
+### What to expect:
+- **Readability first:** Straightforward logic with descriptive variable names. No overly clever, unreadable one-liners.
+- **Optimized:** Solutions prioritize the best possible time and space complexities.
+- **Pythonic:** Makes use of standard Python libraries (like `collections.deque` and `heapq`) just as you would in a real interview setting.
 
-**Overall Completion: 150/150 (100%)**
+## Curriculum & Progress
+
+I've completed all 150 problems. They are organized by topic below:
 
 | Topic | Completed | Total |
 |-------|:---------:|:-----:|
@@ -44,9 +41,9 @@ Each solution in this repository is crafted with the following goals in mind:
 | Math & Geometry | 8 | 8 |
 | Bit Manipulation | 7 | 7 |
 
-## 🏗️ Repository Structure
+## Repository Structure
 
-The codebase is logically organized into topical directories. Each directory acts as an independent module containing python files for specific problems.
+The problems are sorted into folders based on their category. Each python file is named after the problem it solves.
 
 ```text
 📦 NeetCode-150-Python
@@ -70,3 +67,4 @@ The codebase is logically organized into topical directories. Each directory act
  ┗ 📜 README.md
 ```
 
+Feel free to use this as a reference while studying. Good luck with your interviews!
